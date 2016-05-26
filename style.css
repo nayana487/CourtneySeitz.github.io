@@ -88,5 +88,10 @@ h1 {
 
 nav {
 
+}
 
+footer {
+  position: inherit;
+  text-align: center;
+  display:block;
 }
