@@ -98,6 +98,7 @@ h1 {
   padding-top: 100px;
 }
 
+
 h2 {
   font-size: 20px;
   text-align: center;
@@ -114,15 +115,15 @@ h2 {
       padding-bottom: 40px;
 }
 
-.fade
+/*.fade
 {
-        opacity:0.5;
+        opacity:0.2;
 }
 
 .fade:hover
 {
         opacity:1;
-}
+}*/
 
 nav {
 
