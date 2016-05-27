@@ -114,6 +114,16 @@ h2 {
       padding-bottom: 40px;
 }
 
+.fade
+{
+        opacity:0.5;
+}
+
+.fade:hover
+{
+        opacity:1;
+}
+
 nav {
 
 }
