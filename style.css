@@ -19,7 +19,10 @@ header {
   /*border-style:solid;
   border-width:thin;
   background-color: #c9d6de;*/
-  background-image: url("sky.JPG");
+  /*background-image: url("sky.JPG");*/
+  /*background-image: url("flower.jpg.JPG");*/
+  /*background-image: url("IMG_2339.JPG");*/
+  /*background-image: url("2461.JPG");*/
   background-repeat:no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -30,10 +33,11 @@ img {
   width: 130px;
   height: 150px;
   border-radius: 35%;
+  
 }
 
 body {
-background-color: #c9d6de;
+  background-color: #c9d6de;
 
 }
 
@@ -89,7 +93,7 @@ a:hover {
 
 
 body {
-font-family: 'Old Standard TT', serif;
+  font-family: 'Old Standard TT', serif;
 
 }
 
@@ -110,21 +114,21 @@ h2 {
 }
 
 .blocktext {
-      margin-left: auto;
-      margin-right: auto;
-      width: 600px;
-      padding-top: 40px;
-      padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 /*.fade
 {
-        opacity:0.2;
+opacity:0.2;
 }
 
 .fade:hover
 {
-        opacity:1;
+opacity:1;
 }*/
 
 nav {
