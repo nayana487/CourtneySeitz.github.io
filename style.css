@@ -20,14 +20,16 @@ header {
   border-width:thin;
   background-color: #c9d6de;*/
   /*background-image: url("sky.JPG");*/
-  /*background-image: url("flower.jpg.JPG");*/
-  /*background-image: url("IMG_2339.JPG");*/
-  /*background-image: url("2461.JPG");*/
+  /*background-image: url("flower.jpg.jpg");*/
+  /*background-image: url("IMG_2339.jpg");*/
+  /*background-image: url("2461.jpg");*/
   background-repeat:no-repeat;
   background-size: cover;
   background-position: bottom;
 
 }
+
+
 
 img {
   width: 200px;
@@ -42,7 +44,7 @@ body {
 }
 
 h1 {
-  font-size: 45px;
+  font-size: 60px;
   font-style:normal;
   font-weight: bolder;
   font-stretch: extra-expanded;
@@ -53,7 +55,7 @@ h1 {
 .intro {
   padding-top: 35px;
   padding-bottom: 100px;
-  font-size: 25px;
+  font-size: 30px;
   font-style: oblique;
 }
 
