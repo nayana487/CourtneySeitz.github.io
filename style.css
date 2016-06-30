@@ -20,9 +20,9 @@ header {
   border-width:thin;
   background-color: #c9d6de;*/
   /*background-image: url("sky.JPG");*/
-  /*background-image: url("flower.jpg.jpg");*/
+  /*background-image: url("flower.jpg");*/
   /*background-image: url("IMG_2339.jpg");*/
-  /*background-image: url("2461.jpg");*/
+  /*background-image: url("IMG_2461.jpg");*/
   background-repeat:no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -39,7 +39,6 @@ img {
 
 body {
   background-color: #c9d6de;
-
 }
 
 h1 {
