@@ -1,9 +1,9 @@
-// $(document).ready(function() {
-//$(".fade").hide();
-//$(".body").hide();
-//$(".footer").hide();
-//})
+$(document).ready(function() {
+$('.fade').fadeIn(3000);
+$(".body").hide();
+$(".footer").hide();
+});
 
-// $(".test").click(function(){
-//$(".fade").fadeIn("slow");
-//})
+ $(".test").click(function(){
+$(".body").fadeIn(2200);
+});
