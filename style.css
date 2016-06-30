@@ -30,7 +30,6 @@ header {
 }
 
 
-
 img {
   width: 200px;
   height: 200px;
@@ -46,7 +45,7 @@ body {
 h1 {
   font-size: 60px;
   font-style:normal;
-  font-weight: bolder;
+  font-weight:normal;;
   font-stretch: extra-expanded;
   padding-bottom: 35px;
   padding-top: 100px;
