@@ -10,9 +10,6 @@ $(document).ready(function() {
 //  $(".footer")fadeIn(2200);
 //});
 
-//$(".body").hide();
-//$(".footer").hide();
-
 
 //wishlist - have different sections fade in as clicked on the nav bar, fade in and out as appropriate
 //wishlist - something with several images, gallery
