@@ -37,7 +37,8 @@ img {
 
 body {
   background-color: #c9d6de;
-}
+  font-family: 'Old Standard TT', serif;
+  }
 
 h1 {
   font-size: 60px;
@@ -82,10 +83,6 @@ a:link {
 
 a:hover {
   color: #f0f5f9;
-}
-
-body {
-  font-family: 'Old Standard TT', serif;
 }
 
 hr {
