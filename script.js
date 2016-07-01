@@ -1,6 +1,6 @@
-//header fades in on initial load of page 
+//header fades in on initial load of page
 $(document).ready(function() {
-$('.fade').fadeIn(3000);
+  $('.fade').fadeIn(3000);
 //$(".body").hide();
 //$(".footer").hide();
 });
