@@ -1,4 +1,4 @@
-*{
+* {
   margin:0;
   padding:0;
   border:0;
@@ -118,29 +118,29 @@ footer {
 }
 
 #logo {
-   font-size: 30px;
-   line-height: 40px;
-   padding: 5px;
+  font-size: 30px;
+  line-height: 40px;
+  padding: 5px;
 }
 
 #navBarFloat {
-   padding: 5px;
-   background: #c9d6de;
+  padding: 5px;
+  background: #c9d6de;
 }
 #navBarFloat ul {
-   margin: 0;
+  margin: 0;
 
 }
 #navBarFloat li {
-   display:inline;
-   padding: 3px 8px;
-   background-color: #c9d6de;
-   list-style-type: none;
+  display:inline;
+  padding: 3px 8px;
+  background-color: #c9d6de;
+  list-style-type: none;
 }
 #navBarFloat li a {
-   color: #3e4149;
-   text-decoration: none;
+  color: #3e4149;
+  text-decoration: none;
 }
 #navBarFloat li a:hover {
-   text-decoration: underline;
+  text-decoration: underline;
 }
