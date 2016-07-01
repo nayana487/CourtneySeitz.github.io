@@ -32,12 +32,7 @@ header {
 img {
   width: 300px;
   height: 200px;
-<<<<<<< HEAD
   border-radius: 25%;
-
-=======
-  border-radius: 100%;
->>>>>>> alternative
 }
 
 body {
