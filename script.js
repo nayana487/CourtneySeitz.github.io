@@ -45,4 +45,3 @@ scrollWindow.scroll(function() {
         }
     });
 });
->>>>>>> alternative
