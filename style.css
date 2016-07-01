@@ -26,19 +26,16 @@ header {
   background-repeat:no-repeat;
   background-size: cover;
   background-position: bottom;
-
 }
 
 img {
-  width: 200px;
+  width: 300px;
   height: 200px;
   border-radius: 100%;
-
 }
 
 body {
   background-color: #c9d6de;
-
 }
 
 h1 {
@@ -59,12 +56,6 @@ h1 {
 
 .text{
   color: #52616a;
-}
-
-
-nav ul {
-  /*border-style: solid;
-  border-width: thin;*/
 }
 
 nav li {
@@ -92,11 +83,8 @@ a:hover {
   color: #f0f5f9;
 }
 
-
-
 body {
   font-family: 'Old Standard TT', serif;
-
 }
 
 hr {
@@ -111,7 +99,6 @@ h2 {
   text-align: center;
   padding-top: 20px;
   padding-bottom:40px;
-
 }
 
 .blocktext {
@@ -122,24 +109,38 @@ h2 {
   padding-bottom: 40px;
 }
 
-/*.fade
-{
-opacity:0.2;
-}
-
-.fade:hover
-{
-opacity:1;
-}*/
-
-nav {
-
-}
-
 footer {
   position: inherit;
   text-align: center;
   display:block;
   padding-top: 40px;
   padding-bottom:40px;
+}
+
+#logo {
+   font-size: 30px;
+   line-height: 40px;
+   padding: 5px;
+}
+
+#navBarFloat {
+   padding: 5px;
+   background: #c9d6de;
+}
+#navBarFloat ul {
+   margin: 0;
+
+}
+#navBarFloat li {
+   display:inline;
+   padding: 3px 8px;
+   background-color: #c9d6de;
+   list-style-type: none;
+}
+#navBarFloat li a {
+   color: #3e4149;
+   text-decoration: none;
+}
+#navBarFloat li a:hover {
+   text-decoration: underline;
 }
