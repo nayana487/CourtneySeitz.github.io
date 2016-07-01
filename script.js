@@ -4,10 +4,13 @@ $('.fade').fadeIn(3000);
 //$(".footer").hide();
 });
 
- //$(".test").click(function(){
+//wishlist - have different sections fade in as clicked on the nav bar
+
+//$(".test").click(function(){
 //$(".body").fadeIn(2200);
 //});
 
+//function for sticking nav bar as window scrolls
 $(function() {
     var nav = $('#navBarFloat');
     var navHome = nav.offset().top;
@@ -20,6 +23,7 @@ $(function() {
             nav.css({
               position: 'fixed',
               top: 0,
+              left: nav.offset().left,
               width: nav.width()
             });
             isFixed = true;
