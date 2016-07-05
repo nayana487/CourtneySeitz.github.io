@@ -28,7 +28,7 @@ header {
   background-position: bottom;
 }
 
-
+/*Nice job manipulating the image here*/
 img {
   width: 300px;
   height: 200px;
@@ -60,6 +60,9 @@ h1 {
   color: #52616a;
 }
 
+/*If you're adjusting padding on all sides, it's cleaner to use the shorthand:
+ padding: 50px 30px 50px 80px;
+*/
 nav li {
   display: inline;
   padding-top: 10px;
@@ -139,6 +142,7 @@ footer {
   color: #3e4149;
   text-decoration: none;
 }
+/*Nice use of pseudoclasses*/
 #navBarFloat li a:hover {
   text-decoration: underline;
 }
